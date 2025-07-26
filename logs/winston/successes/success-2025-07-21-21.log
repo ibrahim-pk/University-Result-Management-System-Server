@@ -1,0 +1,12 @@
+{
+  message: 'DB is connected!',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2025-07-21T15:44:08.339Z'
+}
+{
+  message: 'server is running port:5000',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2025-07-21T15:44:08.369Z'
+}

@@ -1,0 +1,130 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "E:\\CSTERESULT\\server\\logs\\winston\\errors\\.3041a6b3f1baf070c5d8851f59ebc2c544c72c4e-audit.json",
+    "files": [
+        {
+            "date": 1752944691006,
+            "name": "E:\\CSTERESULT\\server\\logs\\winston\\errors\\error-2025-07-19-23.log",
+            "hash": "cf05019dffa120d30e0cb7bca25c73b33ce06b545e760221f12bd99e273f41a1"
+        },
+        {
+            "date": 1752956167546,
+            "name": "E:\\CSTERESULT\\server\\logs\\winston\\errors\\error-2025-07-20-02.log",
+            "hash": "8b2d81b718a86d82b93497fe7b5b270115698418ca9d2f73121f29ff8b1a5e13"
+        },
+        {
+            "date": 1753008532296,
+            "name": "E:\\CSTERESULT\\server\\logs\\winston\\errors\\error-2025-07-20-16.log",
+            "hash": "7bfcb13ddf7475e05e7393d4b4c45189d9810afab74e43224ef17be5080e8c6b"
+        },
+        {
+            "date": 1753009246004,
+            "name": "E:\\CSTERESULT\\server\\logs\\winston\\errors\\error-2025-07-20-17.log",
+            "hash": "4ae2a480b3021f98dbd530298c48eca00a555f5e46196aca3caead3739be06f3"
+        },
+        {
+            "date": 1753031050432,
+            "name": "E:\\CSTERESULT\\server\\logs\\winston\\errors\\error-2025-07-20-23.log",
+            "hash": "51df21bfac3ded471dc8842c08505557a1c1f332b837d379d5df71a58606a83a"
+        },
+        {
+            "date": 1753035185061,
+            "name": "E:\\CSTERESULT\\server\\logs\\winston\\errors\\error-2025-07-21-00.log",
+            "hash": "6c67c6cf69cfb701f7dd2e11cdb3e8aad50b934cc01e1e30bd9629ab29ffff09"
+        },
+        {
+            "date": 1753038253664,
+            "name": "E:\\CSTERESULT\\server\\logs\\winston\\errors\\error-2025-07-21-01.log",
+            "hash": "3abd5e08a04e79dd12f1eed79481e7582f8827aa3ae6c97c8b1e6cd30056700c"
+        },
+        {
+            "date": 1753076104656,
+            "name": "E:\\CSTERESULT\\server\\logs\\winston\\errors\\error-2025-07-21-11.log",
+            "hash": "99872a9733969cc48af7dbfcd4a2be1c26a138101ffc988a84d946dcf19d87b1"
+        },
+        {
+            "date": 1753085481733,
+            "name": "E:\\CSTERESULT\\server\\logs\\winston\\errors\\error-2025-07-21-14.log",
+            "hash": "785ae452268877054461dfeaaab0f0cc329e89ecc93a1a25d25f15d1ebd68c6a"
+        },
+        {
+            "date": 1753089834697,
+            "name": "E:\\CSTERESULT\\server\\logs\\winston\\errors\\error-2025-07-21-15.log",
+            "hash": "3fd1a50924dee637bc461d96984226ebd237082d561494bf37fde3d6db256dce"
+        },
+        {
+            "date": 1753112644189,
+            "name": "E:\\CSTERESULT\\server\\logs\\winston\\errors\\error-2025-07-21-21.log",
+            "hash": "9de77b63d45c2711e279ca2c57da9c6d87307f01a8bf4d3e9e549ae0af1353e2"
+        },
+        {
+            "date": 1753116586440,
+            "name": "E:\\CSTERESULT\\server\\logs\\winston\\errors\\error-2025-07-21-22.log",
+            "hash": "b5275a7b59f655364bfa8a8a0c159380f831f9d9bc529f1958a3edf631632dc9"
+        },
+        {
+            "date": 1753119934853,
+            "name": "E:\\CSTERESULT\\server\\logs\\winston\\errors\\error-2025-07-21-23.log",
+            "hash": "0aef01766794df4c29fb470953195311d7d4e1f75f6e8618bbd186293c037086"
+        },
+        {
+            "date": 1753125118122,
+            "name": "E:\\CSTERESULT\\server\\logs\\winston\\errors\\error-2025-07-22-01.log",
+            "hash": "329976e3aad31e8597116a3bd47b88bdfafb155c2c2a39c8bb9cc94eaadf76e0"
+        },
+        {
+            "date": 1753203965192,
+            "name": "E:\\CSTERESULT\\server\\logs\\winston\\errors\\error-2025-07-22-23.log",
+            "hash": "f3329c9c23f2fe971e6fdebc3f6a3b06a3d488ac2d549755b1f868883e1fc875"
+        },
+        {
+            "date": 1753253233509,
+            "name": "E:\\CSTERESULT\\server\\logs\\winston\\errors\\error-2025-07-23-12.log",
+            "hash": "acc747c3ac76d14b04b5a90339646fe6cc2446da8faaa31f4479f438986d8d6a"
+        },
+        {
+            "date": 1753254506977,
+            "name": "E:\\CSTERESULT\\server\\logs\\winston\\errors\\error-2025-07-23-13.log",
+            "hash": "31ffcacd7f46f82d6f531a7bbf77d5f3e17b03e943469a84dae4a7b4ae6ac172"
+        },
+        {
+            "date": 1753257821889,
+            "name": "E:\\CSTERESULT\\server\\logs\\winston\\errors\\error-2025-07-23-14.log",
+            "hash": "70e0128d4f226e1ba5993271ee1bb7983c93ef487e63691b81ad260dbbd39e6d"
+        },
+        {
+            "date": 1753261342778,
+            "name": "E:\\CSTERESULT\\server\\logs\\winston\\errors\\error-2025-07-23-15.log",
+            "hash": "1c20423e107ff9469909f95397b7d12162843d347446848747677ddd0f0b727a"
+        },
+        {
+            "date": 1753265351941,
+            "name": "E:\\CSTERESULT\\server\\logs\\winston\\errors\\error-2025-07-23-16.log",
+            "hash": "c2da02f91c048a77d5b5b53972727d267b597b0576dd2ea10bdba557d0112ca9"
+        },
+        {
+            "date": 1753435704327,
+            "name": "E:\\CSTERESULT\\server\\logs\\winston\\errors\\error-2025-07-25-15.log",
+            "hash": "0cea90809829a1ea1b628cca8bc1feda5bbf850ebe4f3138c7a14cdcc14e4c7d"
+        },
+        {
+            "date": 1753440733199,
+            "name": "E:\\CSTERESULT\\server\\logs\\winston\\errors\\error-2025-07-25-16.log",
+            "hash": "7b3deccd074adf70a671844337217e5b6c4e248ff5e4b6eb33ea61b4a5705553"
+        },
+        {
+            "date": 1753535946075,
+            "name": "E:\\CSTERESULT\\server\\logs\\winston\\errors\\error-2025-07-26-19.log",
+            "hash": "0fe0093acc2aec74170c7d8fb76746fcd364a6f5492d9a3f5f71f17b551a9583"
+        },
+        {
+            "date": 1753542821406,
+            "name": "E:\\CSTERESULT\\server\\logs\\winston\\errors\\error-2025-07-26-21.log",
+            "hash": "31b66ec115f6248866d2ce84de4fc43c7b918b2ca0cd23aba844bee52efafa02"
+        }
+    ],
+    "hashType": "sha256"
+}
