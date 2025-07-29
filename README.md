@@ -20,7 +20,7 @@
 
 ## 📘 Department API
 
-### ➕ Get Department
+### Get Department
 **Get** `/api/departments`
 
 ```
@@ -50,29 +50,28 @@
     ]
 }
 ```
-
-**POST** `/api/student/create`
+### ➕ Post Department
+**POST** `/api/departments`
 ```json
 {
-  "studentId": "BFH2001001F",
-  "name": "Md Ibrahim",
-  "batch": 15,
-  "deptName": "CSE"
+  "deptCode": "CSTE",
+  "deptName": "Computer Science and Engineering"
 }
+
 ```
 
 ### ✅ Response
 ```json
 {
-  "success": true,
-  "message": "Student created successfully",
-  "data": {
-    "_id": "abc123...",
-    "studentId": "BFH2001001F",
-    "name": "Md Ibrahim",
-    "batch": 15,
-    "deptName": "CSE"
-  }
+    "statusCode": 200,
+    "success": true,
+    "message": "Department added successfully",
+    "data": {
+        "deptCode": "05",
+        "deptName": "CSTE",
+        "_id": "6888e70d195996527e0eaaba",
+        "__v": 0
+    }
 }
 ```
 
