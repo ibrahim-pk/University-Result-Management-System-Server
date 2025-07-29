@@ -1,7 +1,7 @@
 
 # 🎓 University Result Management System (Backend)
 
-📎 **Live Server Link**: `http://localhost:5000`
+📎 **Live Server Link**: `https://university-result-management-system.onrender.com/`
 
 📎 **Frontend**: React-based UI  
 📎 **Database**: MongoDB  
