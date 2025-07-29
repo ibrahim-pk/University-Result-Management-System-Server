@@ -278,6 +278,7 @@
 ### 📍 View Final Result (CGPA) of Batch
 
 **GET** `/api/result-by-batch?batch=15&final=true`
+```
 {
     "mode": "final",
     "totalStudents": 43,
@@ -343,6 +344,7 @@
             "remark": "Poor"
         },
 }
+```
 
 ### 📍 View Individual Student Transcript
 
