@@ -18,9 +18,38 @@
 
 ---
 
-## 📘 Student API
+## 📘 Department API
 
-### ➕ Create Student
+### ➕ Get Department
+**Get** `/api/departments`
+
+```
+{
+    "statusCode": 200,
+    "success": true,
+    "message": "Departments retrieved successfully",
+    "data": [
+        {
+            "_id": "6682bb87d1c1b99cbe765e30",
+            "deptCode": "01",
+            "deptName": "CSTE",
+            "__v": 0
+        },
+        {
+            "_id": "6682bba3d1c1b99cbe765e32",
+            "deptCode": "02",
+            "deptName": "ICE",
+            "__v": 0
+        },
+        {
+            "_id": "668b89c79a602290e4acd7c8",
+            "deptCode": "03",
+            "deptName": "ACCE",
+            "__v": 0
+        }
+    ]
+}
+```
 
 **POST** `/api/student/create`
 ```json
