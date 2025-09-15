@@ -1,11 +1,20 @@
 
 # 🎓 University Result Management System (Backend)
 
-📎 **Live Server Link**: `https://university-result-management-system.onrender.com/`
-📎 **Thesis-Project:More Details and frontend screenshot**: `(https://drive.google.com/file/d/1Nh2XhIjGWigrgHijJckJyqBUNZaDTAj2/view?usp=sharing)`
-📎 **Frontend**: React-based UI  
-📎 **Database**: MongoDB  
-📎 **Tech Stack**: Node.js, Express.js, Mongoose, REST API
+## 📎 Live Server  
+[University Result Management System](https://university-result-management-system.onrender.com/)
+
+## 📎 Thesis Project (More Details & Frontend Screenshot)  
+[Google Drive Link](https://drive.google.com/file/d/1Nh2XhIjGWigrgHijJckJyqBUNZaDTAj2/view?usp=sharing)
+
+## 📎 Frontend  
+React-based UI
+
+## 📎 Database  
+MongoDB
+
+## 📎 Tech Stack  
+Node.js, Express.js, Mongoose, REST API
 
 ---
 
